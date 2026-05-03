@@ -13,7 +13,7 @@ I'm a beginner, hoping this works
 
 ## How to test
 
-Explain how to use your project
+Test 123
 
 ## External hardware
 
